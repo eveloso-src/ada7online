@@ -1,1 +1,2 @@
 1.creacion archivo
+2.subir archivo
